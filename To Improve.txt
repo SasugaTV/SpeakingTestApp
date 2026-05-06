@@ -1,0 +1,6 @@
+Strict Timer
+Better Sounds (they seem to miss/missfire/queue wrong or something, sound wrong, not sound at all, right now.)
+Catigory Folders
+	Randomize in-catigories on/off.
+	Indicators in the filename for timer length. S5 = 5 seconds, S2 = 2 seconds, No indicator is default timer.
+Play sound on wrong answer given (0 points = Play Sound, load at start.)
